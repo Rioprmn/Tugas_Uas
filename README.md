@@ -10,14 +10,14 @@
   <li>Proyek: E-Voting </li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua: <a href="https:">Dimas</a></li>
-    <li>Anggota 1: <a href="https:/">Rio Permana</a></li>
-    <li>Anggota 2: <a href="https:">Adrian</a></li>
+    <li>Ketua: <a href="https://github.com/dimasamar">Dimas</a></li>
+    <li>Anggota 1: <a href="https://github.com/Rioprmn">Rio Permana</a></li>
+    <li>Anggota 2: <a href="https://github.com/adrianrsmna">Adrian</a></li>
   </ul>
 </ul>
 
 ## Judul Proyek
-<p>Sistem Aplikasi E-Voting</p>
+<h3>Sistem Aplikasi E-Voting</3>
 
 ## Penjelasan Proyek
 <p>Jadi aplikasi E-voting ini di buat untuk memudahkan dalam melakukan 
@@ -41,6 +41,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Github: <a href="https://github.com/Rioprmn/Tugas_Uas">Github</a></li>
+  <li>Youtube: <a href="https://youtu.be/moX4aOQ8r3w?si=mKBN0raVpDWuszqQ">Youtube</a></li>
 </ul>
